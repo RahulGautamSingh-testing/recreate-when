@@ -9,5 +9,5 @@
   "schedule": ["at any time"],
   "recreateWhen": "never"
  },
-  "recreateWhen": "always"
+ "dependencyDashboard": true
 }
